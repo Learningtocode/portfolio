@@ -1,0 +1,38 @@
+body{
+    background-image: url(http://www.thewalldepot.com/wp-content/uploads/2014/07/images-cool-backgrounds-abstract-images-cool-background.jpg)
+}
+
+nav a { color: white;
+    
+} 
+#current-link{
+    text-decoration: none;
+}
+.uppercase {
+    text-transform: uppercase;  
+    font-size: 38px;
+} 
+/*
+img {
+    width: 355px; 
+    height: auto;
+}  
+*/
+h1 {
+    border: 2px dashed white;  
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    padding-left: 50px; 
+    margin-top: 35px; 
+    margin-left: 50px; 
+    margin-right: 100px;
+}
+article p{
+    color: white;
+   }
+   article h1{
+       color: white;
+   }
+   article h2{
+       color: white;
+   }
