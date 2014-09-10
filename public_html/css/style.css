@@ -1,5 +1,5 @@
-body{
-    background-image: url(http://www.thewalldepot.com/wp-content/uploads/2014/07/images-cool-backgrounds-abstract-images-cool-background.jpg)
+html {
+    background: url(http://www.thewalldepot.com/wp-content/uploads/2014/07/images-cool-backgrounds-abstract-images-cool-background.jpg);
 }
 
 nav a { color: white;
@@ -7,7 +7,10 @@ nav a { color: white;
 } 
 #current-link{
     text-decoration: none;
-}
+} 
+#current-linktwo{
+    text-decoration: none;
+} 
 .uppercase {
     text-transform: uppercase;  
     font-size: 38px;
@@ -17,7 +20,7 @@ img {
     width: 355px; 
     height: auto;
 }  
-*/
+*/ 
 h1 {
     border: 2px dashed white;  
     padding-top: 20px; 
@@ -35,4 +38,14 @@ article p{
    }
    article h2{
        color: white;
-   }
+      }
+    /* 
+    This class is for centering text or media in the middle of the website.
+    */
+      .center {
+          text-align: center;
+      } 
+      body{
+          color: white;
+      }      
+    
