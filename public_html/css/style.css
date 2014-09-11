@@ -31,10 +31,11 @@ h1 {
     margin-right: 100px;
 }
 article p{
-    color: white;
+    color: white; 
+    text-align: center;
    }
    article h1{
-       color: white;
+       color: white; 
    }
    article h2{
        color: white;
@@ -46,6 +47,7 @@ article p{
           text-align: center;
       } 
       body{
-          color: white;
+          color: white; 
       }      
-    
+      
+      
